@@ -1,2 +1,4 @@
 2019/7/22 how to build the git repository£¡
 change
+add some content to hello 
+2334
